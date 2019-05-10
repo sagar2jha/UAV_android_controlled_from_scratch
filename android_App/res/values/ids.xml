@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="textView5">false</item>
+    <item type="id" name="pidSelect">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="kp">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="ki">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="kd">false</item>
+    <item type="id" name="textView4">false</item>
+    <item type="id" name="ipaddr">false</item>
+    <item type="id" name="doupdate">false</item>
+</resources>
