@@ -5,7 +5,7 @@ import time
 ser = serial.Serial("/dev/ttyUSB0", 57600, timeout=2)
 # Here we define the UDP IP address as well as the port number that we have
 # already defined in the client python script.
-UDP_IP_ADDRESS = "192.168.1.104"
+UDP_IP_ADDRESS = "#YOUR_PI IP"
 UDP_PORT_NO = 7000
 prev_val=[0,0,0,0]
 # declare our serverSocket upon which
